@@ -7,6 +7,11 @@ Click to watch the full working demo:
 
 ➡️ **[Watch Demo Video](https://github.com/Ayesha-Siddiqa-JH/NextGen-Resume-Screen/releases/download/v1.0/NextGen.Resume.Screen.-.AI-Powered.Analysis.-.Personal.-.Microsoft.Edge.2025-11-29.18-34-29.mp4)**  
 
+## 🎥 Project Demo
+
+Click to watch the full working demo:
+
+➡️ **[Watch Demo Video](https://github.com/Ayesha-Siddiqa-JH/NextGen-Resume-Screen/releases/download/v1.0/NextGen.Resume.Screen.-.AI-Powered.Analysis.-.Personal.-.Microsoft.Edge.2025-11-29.18-34-29.mp4)**  
 
 ## ✨ Features
 
