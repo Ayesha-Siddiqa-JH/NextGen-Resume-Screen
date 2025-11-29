@@ -51,26 +51,31 @@ This guide will help you deploy your application for **FREE** using **Render** (
 
 ---
 
-## ⚛️ Step 3: Deploy Frontend (Vercel)
+## 📦 Step 3: Deploy Frontend (Also on Render!)
 
-1.  Go to your **Vercel Dashboard** and click **Add New...** -> **Project**.
-2.  Import your GitHub repository.
-3.  Configure the project:
-    *   **Framework Preset**: `Vite`
-    *   **Root Directory**: Click `Edit` and select `frontend`.
+You can host the frontend on Render too, keeping everything in one place.
+
+1.  Go to your **Render Dashboard** and click **New +** -> **Static Site**.
+2.  Connect the same GitHub repository.
+3.  Configure the site:
+    *   **Name**: `nextgen-frontend`
+    *   **Branch**: `main`
+    *   **Root Directory**: `frontend`
+    *   **Build Command**: `npm install && npm run build`
+    *   **Publish Directory**: `dist`
 4.  **Environment Variables**:
-    *   Expand the "Environment Variables" section.
+    *   Click "Add Environment Variable".
     *   Key: `VITE_API_URL`
-    *   Value: `https://nextgen-backend.onrender.com/api` (Paste your Render Backend URL here and add `/api` at the end).
-5.  Click **Deploy**.
+    *   Value: `https://nextgen-backend.onrender.com/api` (Paste your Backend URL from Step 2 and add `/api`).
+5.  Click **Create Static Site**.
 
 ---
 
 ## 🎉 Done!
 
-Your app is now live!
-*   **Frontend**: `https://nextgen-resume-screen.vercel.app` (Share this link!)
-*   **Backend**: `https://nextgen-backend.onrender.com`
+Your entire app is now hosted on Render!
+*   **Frontend URL**: `https://nextgen-frontend.onrender.com` (Share this!)
+*   **Backend URL**: `https://nextgen-backend.onrender.com`
 
 ### 💡 Troubleshooting
 
