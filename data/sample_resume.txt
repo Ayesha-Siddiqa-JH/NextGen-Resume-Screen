@@ -1,0 +1,17 @@
+Ayesha Siddiqa JH
+Email: ayeshasiddiqajh422@gmail.com
+Summary:
+Passionate Data Science student with experience in data analysis, visualization, and machine learning projects.
+
+Skills:
+Python, Pandas, NumPy, Scikit-learn, SQL, Tableau, Data Visualization, Machine Learning
+
+Education:
+BE in AI & Data Science - Navgis College of Engineering (2022 - Present)
+
+Projects:
+Bike Dataset Analysis - performed EDA and regression modeling to predict prices.
+House Price Prediction - cleaned data, feature engineering, linear regression model.
+
+Experience:
+Intern - WebDev (2024) - contributed to frontend tasks, assisted with small machine learning pipelines.
