@@ -1,6 +1,11 @@
 # NextGen Resume Screen - 3D Enhanced Version with 11 AI Features
 
 A stunning, futuristic resume screening application with **3D visualization**, **11 advanced AI features** powered by **FREE Google Gemini API**, and modern UI/UX.
+## 🎥 Project Demo
+
+Click to watch the full working demo:
+
+➡️ **[Watch Demo Video](https://github.com/Ayesha-Siddiqa-JH/NextGen-Resume-Screen/releases/download/v1.0/NextGen.Resume.Screen.-.AI-Powered.Analysis.-.Personal.-.Microsoft.Edge.2025-11-29.18-34-29.mp4)**  
 
 
 ## ✨ Features
