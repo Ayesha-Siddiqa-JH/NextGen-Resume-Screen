@@ -43,7 +43,7 @@ This guide will help you deploy your application for **FREE** using **Render** (
 4.  **Environment Variables** (Advanced):
     *   Click "Add Environment Variable".
     *   Key: `GEMINI_API_KEY`
-    *   Value: `AIzaSyCe6UYjOlCKGH_QO2VVpyz_07xJJ0HLiTU` (Your API Key)
+    *   Value: -------------- (Your API Key)
     *   Key: `PYTHON_VERSION`
     *   Value: `3.9.0` (Optional, but good for stability)
 5.  Click **Create Web Service**.
@@ -81,3 +81,4 @@ Your entire app is now hosted on Render!
 
 *   **Backend Initial Delay**: The free tier on Render "sleeps" after inactivity. The first request might take 50 seconds to wake up. This is normal for the free tier.
 *   **CORS Issues**: If you see CORS errors, ensure your Backend URL in Vercel is correct (starts with `https://` and ends with `/api`).
+
